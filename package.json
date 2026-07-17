@@ -11,11 +11,12 @@
     "#*": "./*.js"
   },
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14"
   },
   "devDependencies": {
     "supertest": "^7.1.0",
-    "vitest": "^3.0.9"
+    "vitest": "^3.2.7"
   },
   "engines": {
     "node": ">=22"
